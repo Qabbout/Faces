@@ -1,6 +1,6 @@
 # Faces
 
-iOS app to display a collection view of faces and names and redit them, use Swift and UIKit.
+iOS app to display a collection view of faces and names and redit them, use Swift, UIKit, Codable with UserDefaults.
 
 ## Screenshots
 
